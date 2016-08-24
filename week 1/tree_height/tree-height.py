@@ -26,8 +26,8 @@ class TreeHeight:
                     while i != -1:
                         if (heights[i] != 0):
                             break
-                        height -= 1
                         heights[i] = height
+                        height -= 1
                         i = self.parent[i]
                 return maxHeight
 
