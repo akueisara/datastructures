@@ -13,3 +13,4 @@ Advanced Problem: [Network packet processing simulation](https://github.com/akue
 ### Programming Assignment 2: Priority Queues and Disjoint Sets
 Problem: [Convert array into heap](https://github.com/akueisara/data-structures/tree/master/week%202/make_heap) </br>
 Problem: [Parallel processing](https://github.com/akueisara/data-structures/tree/master/week%202/job_queue) </br>
+Problem: [Merging tables](https://github.com/akueisara/data-structures/tree/master/week%202/merging_tables) </br>
