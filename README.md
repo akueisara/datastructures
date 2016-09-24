@@ -14,3 +14,7 @@ Advanced Problem: [Network packet processing simulation](https://github.com/akue
 Problem: [Convert array into heap](https://github.com/akueisara/data-structures/tree/master/week%202/make_heap) </br>
 Problem: [Parallel processing](https://github.com/akueisara/data-structures/tree/master/week%202/job_queue) </br>
 Problem: [Merging tables](https://github.com/akueisara/data-structures/tree/master/week%202/merging_tables) </br>
+
+## Week 3
+### Programming Assignment 3: Hash Tables and Hash Functions
+Problem: [Phone book](https://github.com/akueisara/data-structures/tree/master/week%203/phone_book) </br>
