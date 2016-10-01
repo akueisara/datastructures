@@ -18,3 +18,4 @@ Problem: [Merging tables](https://github.com/akueisara/data-structures/tree/mast
 ## Week 3
 ### Programming Assignment 3: Hash Tables and Hash Functions
 Problem: [Phone book](https://github.com/akueisara/data-structures/tree/master/week%203/phone_book) </br>
+Problem: [Hashing with chains](https://github.com/akueisara/data-structures/tree/master/week%203/hash_chains) </br>
