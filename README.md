@@ -1,7 +1,7 @@
 # Data Structures
 Assignments in Java, C++, Python for Data Structures on Coursera 
 
-<strong>Note:</strong> I don't have access to submitting my assignments. If there's something wrong in my code, please let me know. Thanks!
+<strong>Note:</strong> I don't have access to submitting my assignments. It's just for my personal learning purpose.
 
 ## Week 1
 ### Programming Assignment 1: Basic Data Structures
@@ -20,3 +20,7 @@ Problem: [Merging tables](https://github.com/akueisara/data-structures/tree/mast
 Problem: [Phone book](https://github.com/akueisara/data-structures/tree/master/week%203/phone_book) </br>
 Problem: [Hashing with chains](https://github.com/akueisara/data-structures/tree/master/week%203/hash_chains) </br>
 Problem: [Find pattern in text](https://github.com/akueisara/data-structures/tree/master/week%203/hash_substring) </br>
+
+## Week 4 & 5
+### Programming Assignment 4: Binary Search Trees
+Problem: [Binary tree traversals](https://github.com/akueisara/data-structures/tree/master/week%204%20%26%205/tree_orders) </br>
